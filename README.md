@@ -25,7 +25,7 @@
 ## 💻 Tech Stack
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeya0710&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthikeya0710&theme=tokyo-night)
+
 **Languages:** Python • SQL • C
 
 **Analytics:** Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
@@ -33,6 +33,7 @@
 **Visualization:** Tableau • Power BI • Excel
 
 **Tools:** Git • GitHub • Jupyter Notebook • VS Code
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthikeya0710&theme=tokyo-night)
 
 ---
 
@@ -57,5 +58,5 @@
 
 ## 📫 Connect With Me
 
--LinkedIn: [YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/karthikeya-m-3a8847322/)
+-LinkedIn:(https://www.linkedin.com/in/karthikeya-m-3a8847322/)
 -Email: maddipatikarthikeya@gmail.com
