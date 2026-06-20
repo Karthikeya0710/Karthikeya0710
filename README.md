@@ -60,3 +60,9 @@
 
 -LinkedIn:(https://www.linkedin.com/in/karthikeya-m-3a8847322/)
 -Email: maddipatikarthikeya@gmail.com
+---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Karthikeya0710/Karthikeya0710/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
