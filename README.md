@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm M. Karthikeya
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Tableau/PowerBI;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+CSE+Student;Python+%7C+SQL+%7C+Tableau/PowerBI;Building+Data-Driven+Solutions)](https://git.io/typing-svg)
 
 
 ### 📊 Data Analytics | Machine Learning | Business Intelligence
