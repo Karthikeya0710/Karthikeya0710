@@ -43,7 +43,7 @@
 
 ⭐ Movie Insights Dashboard
 
-⭐ Electricity Bill Calculator
+⭐ ECommerce sales analysis
 
 ---
 
