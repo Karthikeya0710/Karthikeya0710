@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 About Me
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthikeya0710&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthikeya0710&show_icons=true&theme=tokyonight)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Karthikeya0710&show_icons=true&theme=tokyonight)
 
 - 🎓 B.Tech CSE student at GITAM University
 - 📊 Interested in Data Analytics and Machine Learning
@@ -23,7 +23,7 @@
 ---
 
 ## 💻 Tech Stack
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeya0710&layout=compact&theme=tokyonight)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeya0710&layout=compact&theme=tokyonight)](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Karthikeya0710&layout=compact&theme=tokyonight)
 
 
 **Languages:** Python • SQL • C
